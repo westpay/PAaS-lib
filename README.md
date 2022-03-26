@@ -12,4 +12,8 @@ The process is fairly simple and straight forward:
 ## Interested to find out more?
 We have written up some helpful documents over at our Wiki to help you understand more and perhaps get started with your implementation.
 
+### [1. Introduction](https://github.com/westpay/PAaS-lib/wiki/1.-Introduction)
+### [2. Getting started](https://github.com/westpay/PAaS-lib/wiki/2.-Getting-started)
+### [3. How-To guides](https://github.com/westpay/PAaS-lib/wiki/3.-How-To)
+### [Limitations](https://github.com/westpay/PAaS-lib/wiki/Limitations)
 
