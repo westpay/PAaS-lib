@@ -10,7 +10,7 @@ The process is fairly simple and straight forward:
 * When ready, your App sends a request to the our PA via the PAaS lib to perform payments
 
 ## Interested to find out more?
-We have written up some helpful documents over at our Wiki to help you understand more and perhaps get started with your implementation.
+We have written up some helpful documents over at our Wiki to help you understand more and perhaps help yuou get started with your own implementation.
 
 ### [1. Introduction](https://github.com/westpay/PAaS-lib/wiki/1.-Introduction)
 ### [2. Getting started](https://github.com/westpay/PAaS-lib/wiki/2.-Getting-started)
