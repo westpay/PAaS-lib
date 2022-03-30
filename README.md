@@ -17,3 +17,5 @@ We have written up some helpful documents over at our Wiki to help you understan
 ### [3. How-To guides](https://github.com/westpay/PAaS-lib/wiki/3.-How-To)
 ### [Limitations](https://github.com/westpay/PAaS-lib/wiki/Limitations)
 
+## You will find the latest lib documentation here
+[Posapplib overview](https://westpay.github.io/PAaS-lib/)
